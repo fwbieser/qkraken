@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-# Get current trading info on list coins on Kraken.
+# Get current trading info on listed coins on Kraken.
 #
 import datetime
 import requests
